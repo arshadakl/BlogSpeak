@@ -18,7 +18,6 @@ You can install BlogSpeak via npm:
 
 ```bash
 npm install blogspeak
+```
 
-
-
-Alternatively, you can download the BlogSpeak.js file from the repository and include it directly in your project.
+ Alternatively, you can download the BlogSpeak.js file from the repository and include it directly in your project.
