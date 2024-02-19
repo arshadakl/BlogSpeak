@@ -1,6 +1,6 @@
 {
   "name": "blogspeak",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BlogSpeak is an npm module that enables websites to offer an accessibility feature allowing visitors to listen to blog posts instead of reading them.",
   "main": "BlogSpeak.js",
   "scripts": {
@@ -8,7 +8,6 @@
   },
   "keywords": [
     "text-to-speak",
-    "arshadakl",
     "blogspeak"
   ],
   "author": "arshadakl",
