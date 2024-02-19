@@ -1,5 +1,7 @@
 # BlogSpeak
 
+Created by Arshad
+
 BlogSpeak is a lightweight JavaScript module that enables websites to offer a text-to-speech feature, allowing visitors to listen to blog posts instead of reading them. It utilizes the SpeechSynthesisUtterance API to convert text content into speech, providing an audio version of the blog post for users who prefer or require auditory information.
 
 ## Features
@@ -37,7 +39,7 @@ const blogReader = new BlogSpeak({
   volume: 0.8
 });
 
-
+// Example blog post content
 const blogPostContent = `
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
   Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
